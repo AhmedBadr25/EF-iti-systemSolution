@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EF-iti-system": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
